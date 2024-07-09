@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Instagram clone**
 
-- 🌱 I’m currently learning **Compose**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **Kotlin**
 
