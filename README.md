@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saša</h1>
 <h3 align="center">A passionate mobile developer from Serbia</h3>
 
-- 🔭 I’m currently working on **Instagram clone**
+- 🔭 I’m currently working on **Expense trucker**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Kotlin**
 
